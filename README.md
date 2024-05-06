@@ -87,7 +87,7 @@
 <h2 align="left">Connect with me:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/andrés-cárdenas-dev/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="linkedin logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" alt="linkedin logo"/>
   </a>
 </div>
 
