@@ -3,7 +3,7 @@
 
 <h2 align="left">About me</h2>
 <p align="left">I am a systems engineer with Full-Stack programming experience, focused on web application development 💻. I have an understanding of some of the most modern technologies and tools used in software development (MERN & MEAN) stack, including JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, SQL, Git, Java, FireBase, Docker and more. <br/>
-<br>📚 I'm currently learning. 
+<br>📚 I'm  systems engineer and I like to continue learning.
 <br><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" height="20"/> Error Resolution and Debugging.
 <br>🎯 Full-Stack Development Expertise.
 <br>✊ Collaborative Teamwork. 
